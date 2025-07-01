@@ -1,4 +1,3 @@
-# MambaHCD
 <div align="center">
     <h2>
         Unsupervised heterogeneous remote sensing change detection via multi-scale Mamba attention and feature alignment
